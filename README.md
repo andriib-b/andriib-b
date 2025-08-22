@@ -1,16 +1,13 @@
-## Hi there 👋
+💻 **Software Developer | Crypto Enthusiast | Open-Source Contributor**
 
-<!--
-**andriib-b/andriib-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently studying **Blockchain**, **Smart Contracts**, and **FHE (Fully Homomorphic Encryption)**
+- 🌱 Practicing **Python, JavaScript, TypeScript, Solidity**
+- 🚀 Love doing pet projects and bringing ideas to life in code
 
-Here are some ideas to get you started:
+### ⚡ GitHub Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+⭐️ *If you are interested in my projects, don't forget to give them a star!*
